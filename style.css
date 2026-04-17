@@ -1,0 +1,19 @@
+.container{
+    background-color: #d9f8fa;
+    border-radius: 15px;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    border: groove rgb(24, 78, 101);
+}
+
+body{
+    background-image: url(bg3.jpg);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn-dark{
+    background-color: #083344;
+    border: groove rgb(4, 26, 46);
+}
